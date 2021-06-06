@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe203d7a-1b84-4ae1-b500-287089cb5ac3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/meals.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/Cart.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/Meals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealsSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealsSummary.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/CartProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/cart-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-look-behind-the-scenes-of-react-and-optimization-techniques/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-look-behind-the-scenes-of-react-and-optimization-techniques/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +67,7 @@
       <workItem from="1622482381938" duration="6160000" />
       <workItem from="1622544909275" duration="8511000" />
       <workItem from="1622704457947" duration="4296000" />
+      <workItem from="1622868856816" duration="499000" />
     </task>
     <servers />
   </component>
